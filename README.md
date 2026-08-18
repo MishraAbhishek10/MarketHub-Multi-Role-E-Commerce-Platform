@@ -1,4 +1,4 @@
-# ShopSphere — Real-World Full Stack E-Commerce Portfolio Project
+# MarketHub — Multi-Role E-Commerce Platform Project
 
 This version is intentionally structured as a small real-world platform instead of one buyer-only page.
 
