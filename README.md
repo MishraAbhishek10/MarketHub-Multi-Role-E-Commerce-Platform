@@ -1,4 +1,4 @@
-# MarketHub — Multi-Role E-Commerce Platform Project
+# MarketHub : Multi-Role E-Commerce Platform Project
 
 This version is intentionally structured as a small real-world platform instead of one buyer-only page.
 
